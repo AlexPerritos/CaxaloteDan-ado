@@ -1,5 +1,5 @@
 print("programa de gatitos")
-gatitos = int(input("CUANTOS GATITOS HAY? : "))
+gatitos = int(input("CUANTeS GATITOS HAY? : "))
 
 gatitos += 3
 
